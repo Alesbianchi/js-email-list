@@ -6,4 +6,22 @@
 
 .list-group{
     list-style: none;
+    
+}
+
+body{
+    font-family: Montserrat;
+    font-weight: bold;
+    background-color: rgba(122, 226, 245, 0.5);
+    color: white;
+}
+
+.badge{
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.container{
+    width: 50%;
 }
